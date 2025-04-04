@@ -7,9 +7,9 @@ from pathlib import Path
 
 """   INSTRUCTIONS: THIS IS ONLY FOR FIRST TIME SET-UP  """
 """   Make sure this script is inside a folder with yt-dlp.exe  """
-"""   1. Create a .txt file in your desired folder entitled 'Links'   """
+"""   1. Create a .txt file in your yt-dlp folder entitled 'Links'   """
 """   2. Copy and Paste the links of the videos you want to download into the Links.txt file   """
-"""   3. Create a .txt file in your desired folder entitled 'UsedLinks'   """
+"""   3. Create a .txt file in your yt-dlp folder entitled 'UsedLinks'   """
 """   4. Download and install firefox """
 """   5. Login to your Youtube account on Firefox and then close the browser, this will create the cookies file yt-dlp needs to get around youtube bot detection"""
 """   ONLY USE WITH A VPN AND A THROWAWAY GOOGLE AND YOUTUBE ACCOUNT   """
