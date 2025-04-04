@@ -6,6 +6,7 @@ from pathlib import Path
 """ Works on Playlists and Videos with a 1080p limit """
 
 """   INSTRUCTIONS: THIS IS ONLY FOR FIRST TIME SET-UP  """
+"""   Make sure this script is inside a folder with yt-dlp.exe  """
 """   1. Create a .txt file in your desired folder entitled 'Links'   """
 """   2. Copy and Paste the links of the videos you want to download into the Links.txt file   """
 """   3. Create a .txt file in your desired folder entitled 'UsedLinks'   """
