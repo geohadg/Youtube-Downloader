@@ -4,6 +4,8 @@ This is a Python script that runs on yt-dlp
 
 Download yt-dlp at https://github.com/yt-dlp/yt-dlp?tab=readme-ov-file
 
+Put the script file in the same folder as yt-dlp.exe
+
 Youtube Bot Detection has become a pain lately, The easiest way I found to get it to work was by importing Firefox cookie files
 
 Download and install Firefox, then make a throwaway google account and use it to sign into youtube on firefox, then close the browser
